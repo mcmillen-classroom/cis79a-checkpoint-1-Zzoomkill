@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+
+    <string name="q_text">Shazam</string>
+
+    <string name="true_button">正解(True)</string>
+    <string name="false_button">错误(False)</string>
+</resources>
